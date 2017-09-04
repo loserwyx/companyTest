@@ -10,5 +10,5 @@ package javaapplication1;
  * @author wangyanxin
  */
 public class NewClass {
-    // add
+    // add 3
 }
